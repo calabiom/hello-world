@@ -12,4 +12,4 @@
 8. ZotFeedLive, a community-based app
 9. Power Hour Down (with Bob Ross) -- a productivity Chrome extension that helps you get into sleep mode
 10. YourWeeklyReview, a web app that gamifies productivity (inspired by: https://www.youtube.com/watch?v=PlTrxpNaZI8)
-11. 
+11. GITWLT (Get It Together, We Live Together), an app that gamifies living with apartmentmates (chores, notifications, etc)... 
